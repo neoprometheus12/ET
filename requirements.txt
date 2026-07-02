@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+apscheduler
+aiohttp
+websockets
+python-multipart
+google-genai
